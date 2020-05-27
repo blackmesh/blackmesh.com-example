@@ -81,5 +81,8 @@
                 "      composer remove drupal/core-project-message"
             ]
         }
+    },
+    "require-dev": {
+        "geerlingguy/drupal-vm-docker": "^1.1"
     }
 }
